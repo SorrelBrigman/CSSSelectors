@@ -24,3 +24,6 @@ a .promo .disabled {
 	color: yellow;
 }
 
+.parent > div > div:first-child {
+	color: red;
+}
