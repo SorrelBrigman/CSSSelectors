@@ -9,3 +9,14 @@ nav ul {
 	list-style: none;
 }
 
+.disabled
+.disabled:not(a) {
+	color: grey;
+}
+
+a.disabled,
+a > .disabled,
+a .promo .disabled {
+	color: purple;
+}
+
