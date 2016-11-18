@@ -20,3 +20,7 @@ a .promo .disabled {
 	color: purple;
 }
 
+.active {
+	color: yellow;
+}
+
