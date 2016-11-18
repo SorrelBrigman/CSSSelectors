@@ -50,3 +50,8 @@ a .promo .disabled {
 	color: gold;
 	font-weight: bold;
 }
+
+
+input[type] {
+	height: 25px;
+}
