@@ -31,3 +31,11 @@ a .promo .disabled {
 .parent > div > div:nth-child(3) {
 	color: blue;
 }
+
+.parent > div > div:first-child + h4 {
+	background-color: red;
+}
+
+.parent > div > div:nth-child(3) + h4 {
+	background-color: blue;
+}
